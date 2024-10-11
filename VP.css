@@ -1,0 +1,13 @@
+.valiForm{
+
+    padding: 2em;
+
+}
+body {
+    background-image: url('travel_img.jpg'); /* Replace with your image path */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    height: 160vh; /* Full viewport height */
+    }
+
